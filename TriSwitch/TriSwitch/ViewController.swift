@@ -12,6 +12,8 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        //some msg
+        print("new branch")
         // Do any additional setup after loading the view.
     }
 
