@@ -1,1 +1,1 @@
-# TrISwitch
+# TriSwitch
